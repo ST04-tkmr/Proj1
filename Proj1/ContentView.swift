@@ -14,7 +14,7 @@ struct ContentView: View {
     }
     
     func log() {
-        print("こんにちは")
+        print("こんにちは、世界！")
     }
 }
 
