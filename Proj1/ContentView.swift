@@ -12,6 +12,10 @@ struct ContentView: View {
         Text("Hello, world!")
             .padding()
     }
+    
+    func log() {
+        print("こんにちは")
+    }
 }
 
 struct ContentView_Previews: PreviewProvider {
